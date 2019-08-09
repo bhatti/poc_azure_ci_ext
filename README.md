@@ -7,4 +7,7 @@
 
 
 
-## See https://docs.microsoft.com/en-us/azure/devops/extend/get-started/node?view=azure-devops
+## References
+- https://docs.microsoft.com/en-us/azure/devops/extend/get-started/node?view=azure-devops
+- https://docs.microsoft.com/en-us/azure/devops/integrate/index?view=azure-devops
+- https://docs.microsoft.com/en-us/azure/devops/extend/overview?view=azure-devops
