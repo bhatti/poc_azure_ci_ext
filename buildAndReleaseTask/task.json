@@ -1,0 +1,30 @@
+{
+    "id": "83a50591-99dd-46fc-be79-91c0abfde2c2",
+    "name": "ns-security",
+    "friendlyName": "ns-security",
+    "description": "ns security",
+    "helpMarkDown": "",
+    "category": "Utility",
+    "author": "shahbhat",
+    "version": {
+        "Major": 0,
+        "Minor": 1,
+        "Patch": 0
+    },
+    "instanceNameFormat": "Echo $(samplestring)",
+    "inputs": [
+        {
+            "name": "samplestring",
+            "type": "string",
+            "label": "Sample String",
+            "defaultValue": "",
+            "required": true,
+            "helpMarkDown": "A sample string"
+        }
+    ],
+    "execution": {
+        "Node": {
+            "target": "index.js"
+        }
+    }
+}
