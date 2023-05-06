@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/bhatti/poc_azure_ci_ext#readme",
   "dependencies": {
-    "azure-pipelines-task-lib": "2.8.0",
+    "azure-pipelines-task-lib": "4.3.1",
     "vss-web-extension-sdk": "5.141.0"
   },
   "devDependencies": {
